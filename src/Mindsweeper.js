@@ -163,4 +163,4 @@ Mindsweeper.prototype.validateWin = function () {
     return safeTilesLeft;
 };
 
-module.exports = Mindsweeper;
+export default Mindsweeper;
